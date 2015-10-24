@@ -14,6 +14,7 @@ This is a basic project structure for any kind of application using Gulp build s
     
         git init
         git add .
+        git status (you see all the files you cloned has been added)
         git commit -m "first commit"
         git remote add origin https://github.com/MarekJCK/Repository-name.git
         git push -u origin master
