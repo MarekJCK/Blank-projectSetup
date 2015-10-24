@@ -11,7 +11,7 @@ This is a basic project structure for any kind of application using Gulp build s
     
 ### B. Go to github.com and create new repository with the name you rename the clone.
     
-    1. Create a new repository on command line:
+1. Create a new repository on command line:
     
         git init
         git add .
@@ -20,7 +20,7 @@ This is a basic project structure for any kind of application using Gulp build s
         git remote add origin https://github.com/MarekJCK/Repository-name.git
         git push -u origin master
     
-    2. **Clear this readme**
+2. **Clear this readme**
 
 ### C. NPM & Gulp
 
