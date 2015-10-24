@@ -3,7 +3,7 @@ This is a basic project structure for any kind of application using Gulp build s
 
 ### A. Clone this structure via command line on your laptop and rename it after:
 
-    ``` git clone https://github.com/MarekJCK/Blank-projectSetup.git ```
+    git clone https://github.com/MarekJCK/Blank-projectSetup.git
         
 ### B. Go to github.com and create new repository.
     Create a new repository on command line:
