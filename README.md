@@ -1,11 +1,14 @@
 # Project Setup
 This is a basic project structure for any kind of application using Gulp build system.
 
-### A. Clone this structure via command line on your laptop and rename it after:
+### A. Clone this structure via command line on your laptop:
 
     git clone https://github.com/MarekJCK/Blank-projectSetup.git
-        
-### B. Go to github.com and create new repository.
+    
+    1. Rename it.
+    2. Delete .git directory
+    
+### B. Go to github.com and create new repository with the name you rename the clone.
     Create a new repository on command line:
     
         echo "# Repository-name" >> README.md
