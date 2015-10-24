@@ -7,13 +7,13 @@ This is a basic project structure for any kind of application using Gulp build s
     
     1. Rename it.
     2. Delete .git directory
+    3. CD into it
     
 ### B. Go to github.com and create new repository with the name you rename the clone.
     Create a new repository on command line:
     
-        echo "# Repository-name" >> README.md
         git init
-        git add README.md
+        git add .
         git commit -m "first commit"
         git remote add origin https://github.com/MarekJCK/Repository-name.git
         git push -u origin master
