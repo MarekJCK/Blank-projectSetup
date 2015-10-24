@@ -30,3 +30,4 @@ This is a basic project structure for any kind of application using Gulp build s
     **USE *sudo* IF NEEDED**
 
 7. **Run gulp:**  `$ gulp`
+7.1 _Clean this readme_
