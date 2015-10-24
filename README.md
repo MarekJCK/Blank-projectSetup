@@ -20,7 +20,7 @@ This is a basic project structure for any kind of application using Gulp build s
         git remote add origin https://github.com/MarekJCK/Repository-name.git
         git push -u origin master
     
-    2. _Clear this readme_
+    2. **Clear this readme**
 
 ### C. NPM & Gulp
 
