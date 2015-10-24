@@ -1,9 +1,9 @@
 # Project Setup
 This is a basic project structure for any kind of application using Gulp build system.
 
-## Clone this structure via command line.
+## 1. Clone this structure via command line.
 
-### Git
+### 2. Go to github.com and create new repository.
     Create a new repository on command line:
     
         echo "# Repository-name" >> README.md
