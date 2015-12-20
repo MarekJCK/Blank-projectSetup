@@ -9,7 +9,7 @@ This is a basic project structure for any kind of application using Gulp build s
     2. Delete .git directory
     3. CD into it.
     
-### Go to [github.com](https://github.com/) and create new repository with the name you rename the clone.
+### Go to [github](https://github.com/) and create new repository with the name you rename the clone.
     
      Create a new repository on command line:
     
