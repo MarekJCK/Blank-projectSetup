@@ -6,8 +6,8 @@ This is a basic project structure for any kind of application using Gulp build s
     git clone https://github.com/MarekJCK/Blank-projectSetup.git
     
     1. Rename it.
-    2. Delete .git directory ($ rm -rf .git* )
-    3. CD into it.
+    2. CD into it.
+    3. Delete .git directory ($ rm -rf .git* )
     
 ### Go to [github](https://github.com/) and create new repository with the name you rename the clone.
     
