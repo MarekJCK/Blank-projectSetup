@@ -37,6 +37,8 @@ This is a basic project structure for any kind of application using Gulp build s
       Watch:       $ npm install gulp-watch --save-dev
     ```
     **USE *sudo* IF NEEDED**
+    
+    (sudo npm i)
 
 7. **Run gulp:**  `$ gulp`
 8. _Clear this readme_
