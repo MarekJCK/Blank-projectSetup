@@ -3,9 +3,9 @@ This is a basic project structure for any kind of application using Gulp build s
 
 ### Clone this structure via command line to your laptop:
 
-    git clone https://github.com/MarekJCK/Blank-projectSetup.git
+    git clone https://github.com/MarekJCK/blankProjectSetup.git
     
-    1. Rename it.
+    1. Rename it (mv blankProjectSetup newName)
     2. CD into it.
     3. Delete .git directory ($ rm -rf .git* )
     
