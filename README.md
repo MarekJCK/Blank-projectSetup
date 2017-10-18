@@ -22,16 +22,16 @@ This is a basic project structure for any kind of application using Gulp build s
 
 ### .gitignore
 
-create your unique .gitignore file:
+    create your unique .gitignore file:
 
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/dictionaries
+    .idea/**/workspace.xml
+    .idea/**/tasks.xml
+    .idea/dictionaries
 
-.idea/
-node_modules/
-.DS_Store
-.sass-cache
+    .idea/
+    node_modules/
+    .DS_Store
+    .sass-cache
 
 
 ### NPM & Gulp
