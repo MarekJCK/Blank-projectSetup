@@ -30,16 +30,10 @@ This is a basic project structure for any kind of application using Gulp build s
 5.  **Install Normalize.css as Dependancy:**         `$ npm install --save normalize.css`
 
 6. **Install other gulp dependencies:**
-    ```
-      Sass:        $ npm install gulp-sass --save-dev
-      Minify-CSS:  $ npm install gulp-minify-css --save-dev
-      Webserver:   $ npm install gulp-webserver --save-dev
-      Watch:       $ npm install gulp-watch --save-dev
-    ```
     **USE *sudo* IF NEEDED**
     
     ```
-    sudo npm install gulp-sass --save-dev,  gulp-minify-css --save-dev, gulp-webserver --save-dev, gulp-watch --save-dev
+    sudo npm install gulp-sass --save-dev gulp-minify-css --save-dev gulp-webserver --save-dev gulp-watch --save-dev gulp-uglify --save-dev pump--save-dev
     ```
 7. **Run gulp:**  `$ gulp`
 8. _Clear this readme_
