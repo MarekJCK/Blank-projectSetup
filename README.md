@@ -1,4 +1,4 @@
-# Project Setup
+# Dev stack starter kit
 This is a basic project structure for any kind of application using Gulp build system.
 
 ### Clone this structure via command line to your laptop:
