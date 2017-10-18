@@ -33,7 +33,7 @@ This is a basic project structure for any kind of application using Gulp build s
     **USE *sudo* IF NEEDED**
     
     ```
-    sudo npm install gulp-sass --save-dev gulp-minify-css --save-dev gulp-webserver --save-dev gulp-watch --save-dev gulp-uglify --save-dev pump--save-dev
+    sudo npm install gulp-sass --save-dev gulp-minify-css --save-dev gulp-webserver --save-dev gulp-watch --save-dev gulp-uglify --save-dev pump --save-dev
     ```
 7. **Run gulp:**  `$ gulp`
 8. _Clear this readme_
