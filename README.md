@@ -19,7 +19,20 @@ This is a basic project structure for any kind of application using Gulp build s
         git commit -m "first commit"
         git remote add origin https://github.com/MarekJCK/Repository-name.git
         git push -u origin master
-    
+
+### .gitignore
+
+create your unique .gitignore file:
+
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+.idea/
+node_modules/
+.DS_Store
+.sass-cache
+
 
 ### NPM & Gulp
 
